@@ -109,6 +109,12 @@ This enables true bidirectional navigation through any algorithm without replayi
 
 ---
 
+## Related
+
+- **Backend** — [AlgoView Backend](https://github.com/yashshinde8585/AlgoView-Backed)
+
+---
+
 ## License
 
 MIT © [Yash Shinde](https://github.com/yashshinde8585)
